@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@media (max-width: 680px) {
+	.form { 
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	width: 80%;
+	height: auto;
+	margin-top: 0  ;
+	}
+	input, label { 
+	margin: 5px;
+	}   
+}
